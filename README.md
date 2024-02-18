@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I am Mohammad Taha! 👋
 
 <!--
 **m7taha/m7taha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 A Passionate Flutter Developer with over a year of experience in crafting robust mobile applications.
+🎨 Proficient in Dart, UI/UX design, and efficient state management, including Getx.
+📱 Specializing in creating high-performance cross-platform solutions.
+🌐 Strong foundation in Firebase for robust backend solutions.
+🗃️ Experience with databases like Firestore for seamless backend integration.
+🛠️ Well-versed in version control with Git and GitHub.
+🔍 With strong commitment to continuous learning.
+🚀 Let's connect on [Linkedint](https://www.linkedin.com/in/mohammad-taha-0980b124a/) for discussions and collaborations!
+
+
