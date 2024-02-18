@@ -7,7 +7,7 @@
 🗃️ Experience with databases like Firestore for seamless backend integration.
 🛠️ Well-versed in version control with Git and GitHub.
 🔍 With strong commitment to continuous learning.
-🚀 Let's connect on [Linkedint](https://www.linkedin.com/in/mohammad-taha-0980b124a/) for discussions and collaborations!
+🚀 Let's connect on [Linkedin](https://www.linkedin.com/in/mohammad-taha-0980b124a/) for discussions and collaborations!
 
 <!--
 **m7taha/m7taha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
