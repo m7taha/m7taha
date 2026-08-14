@@ -1,6 +1,6 @@
 ### Hi there! I am Mohammad Taha! 👋
 
-- 💼 A Passionate Flutter Developer with over a year of experience in crafting robust mobile applications.
+- 💼 A Flutter Developer with over a year of experience in crafting robust mobile applications.
 - 🎨 Proficient in Dart, UI/UX design, and efficient state management, including Getx.
 - 📱 Specializing in creating high-performance cross-platform solutions.
 - 🌐 Strong foundation in Firebase for robust backend solutions.
