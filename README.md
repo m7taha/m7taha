@@ -22,8 +22,8 @@ I build cross-platform mobile applications with Flutter, focusing on clean archi
 
 - **[Friends Out](https://github.com/m7taha/friends-out)** — A Flutter social discovery app for finding places, making plans, and sharing experiences. Built with Cubit and Supabase.
 - **[TextSnap OCR](https://github.com/m7taha/TextSnap_OCR)** — A Flutter OCR application.
-- **[Clime Weather App](https://github.com/m7taha/clime_weather_app)** — A Flutter weather application.
 
+For more check out my portflio: https://mohammadtaha.is-a.dev/projects
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mohammad-taha-0980b124a/)
