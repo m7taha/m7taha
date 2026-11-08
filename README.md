@@ -27,7 +27,7 @@ For more check out my portflio: https://mohammadtaha.is-a.dev/projects
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mohammad-taha-0980b124a/)
-- [GitHub](https://github.com/m7taha)
+- [Email](m.7taharajpoot@gmail.com)
 
 I'm open to **remote Flutter / mobile engineering opportunities** and meaningful collaborations.
 
